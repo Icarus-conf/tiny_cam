@@ -35,7 +35,7 @@ A minimalist, high-performance **Flutter** camera application built **exclusivel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tiny_cam.git
+   git clone https://github.com/Icarus-conf/tiny_cam.git
    cd tiny_cam
    ```
 
