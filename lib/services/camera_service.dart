@@ -167,7 +167,7 @@ class CameraService {
         height: 300,
         format: 'jpeg',
         quality: 75,
-        keepAspectRatio: true,
+        // keepAspectRatio: true,
       );
 
       // Verify if it was actually created
