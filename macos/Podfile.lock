@@ -1,0 +1,35 @@
+PODS:
+  - camera_macos (0.0.1):
+    - FlutterMacOS
+  - fc_native_video_thumbnail (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - camera_macos (from `Flutter/ephemeral/.symlinks/plugins/camera_macos/macos`)
+  - fc_native_video_thumbnail (from `Flutter/ephemeral/.symlinks/plugins/fc_native_video_thumbnail/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - video_player_avfoundation (from `Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin`)
+
+EXTERNAL SOURCES:
+  camera_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/camera_macos/macos
+  fc_native_video_thumbnail:
+    :path: Flutter/ephemeral/.symlinks/plugins/fc_native_video_thumbnail/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  video_player_avfoundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/video_player_avfoundation/darwin
+
+SPEC CHECKSUMS:
+  camera_macos: c2603f5eed16f05076cf17e12030d2ce55a77839
+  fc_native_video_thumbnail: 828487c6e1509b0ba74f6741b2788ac47aa0285b
+  FlutterMacOS: d0db08ddef1a9af05a5ec4b724367152bb0500b1
+  video_player_avfoundation: 7993f492ae0bd77edaea24d9dc051d8bb2cd7c86
+
+PODFILE CHECKSUM: 54d867c82ac51cbd61b565781b9fada492027009
+
+COCOAPODS: 1.16.2
